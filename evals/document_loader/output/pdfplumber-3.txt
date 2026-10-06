@@ -1,0 +1,931 @@
+Total Pages: 30
+
+================================================================================
+PAGE 1
+================================================================================
+
+METADATA:
+Page Number: 1
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+
+
+TABLES:
+
+TABLE 1:
+['']
+['']
+
+
+================================================================================
+PAGE 2
+================================================================================
+
+METADATA:
+Page Number: 2
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+ComManD maX
+presence
+Powersight LED Lamps -
+LED Headlamps & DRLs
+Clear illumination that commands the way,
+day or night.
+
+TABLES:
+
+TABLE 1:
+['ComManD maX\npresence\nPowersight LED Lamps -\nLED Headlamps & DRLs\nClear illumination that commands the way,\nday or night.']
+['']
+
+
+================================================================================
+PAGE 3
+================================================================================
+
+METADATA:
+Page Number: 3
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+Infinity Glow LED Tail Lamp
+Bold signature presence that leaves a lasting impression.
+TrailCrest R16 Alloy wheels
+Solid SUV stance on wheels.
+Contrast Roof & Roof Rails
+Styled to go the SUV way for adventures that await.
+
+TABLES:
+No tables detected.
+
+
+================================================================================
+PAGE 4
+================================================================================
+
+METADATA:
+Page Number: 4
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+3D Front Grille and
+Bull Guard Bumper
+Designed for bold SUV command.
+Built for absorbing max impact.
+Trail Guard Rear Skid Plate
+Built-in protection for roads that demand more.
+
+TABLES:
+
+TABLE 1:
+['', None]
+['', '']
+
+
+================================================================================
+PAGE 5
+================================================================================
+
+METADATA:
+Page Number: 5
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+DuoTone Signature Dash
+A premium dual-toned dash
+designed to elevate cabin experience.
+Smart Digital Steering
+Wheel-2 Spoke Illuminated
+Designed to feel confident, connected, and in charge.
+
+TABLES:
+
+TABLE 1:
+['', None]
+['', '']
+
+TABLE 2:
+['', None]
+[None, '']
+
+
+================================================================================
+PAGE 6
+================================================================================
+
+METADATA:
+Page Number: 6
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+Spacious Interiors
+Design that blends space, comfort,
+and confidence into every drive.
+Clima Touch Automatic
+Temperature Control
+Curated fully automatic temperature control
+that lets you stay comfortable.
+
+TABLES:
+
+TABLE 1:
+['', None]
+[None, '']
+
+
+================================================================================
+PAGE 7
+================================================================================
+
+METADATA:
+Page Number: 7
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+Extended Thigh
+Support Seats
+Crafted to keep you relaxed,
+supported, and in control on every drive.
+Galaxy Ambient Lighting
+Ambient lighting that enhances the cabin experience.
+
+TABLES:
+
+TABLE 1:
+['Extended Thigh\nSupport Seats\nCrafted to keep you relaxed,\nsupported, and in control on every drive.\nGalaxy Ambient Lighting\nAmbient lighting that enhances the cabin experience.']
+['']
+
+
+================================================================================
+PAGE 8
+================================================================================
+
+METADATA:
+Page Number: 8
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+ComManD maX
+safety
+INDIA’S SAFEST 5-STAR RATED SUB COMPACT SUV*
+*As per BNCAP Rating
+
+TABLES:
+
+TABLE 1:
+['ComManD maX\nsafety\nINDIA’S SAFEST 5-STAR RATED SUB COMPACT SUV*\n*As per BNCAP Rating', '']
+
+TABLE 2:
+['', None]
+[None, '']
+
+
+================================================================================
+PAGE 9
+================================================================================
+
+METADATA:
+Page Number: 9
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+6 Airbags
+All-round safety and assured
+drives, delivered.
+360˚ SVS HD Camera
+with Blind View Monitor
+Command the surroundings with
+a 360 degree view that has
+your back, always.
+Safety Dome
+Body Shell
+Engineered high strength
+body shell designed for
+uncompromising safety.
+
+TABLES:
+No tables detected.
+
+
+================================================================================
+PAGE 10
+================================================================================
+
+METADATA:
+Page Number: 10
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+LED Fog Lamps
+Clear visibility when conditions demand control.
+Hill Descent Control
+Navigate steep descents and
+downhill stretches with
+controlled confidence.
+Auto Dimming IRVM
+Automatically adjusts glare for focused,
+safer night drives.
+
+TABLES:
+No tables detected.
+
+
+================================================================================
+PAGE 11
+================================================================================
+
+METADATA:
+Page Number: 11
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+iTPMS
+Real-time tyre pressure monitoring
+that ensures optimal performance.
+Rear Defogger
+Clear rear visibility for uninterrupted drives
+in misty conditions.
+SOS Calling Function/
+E-Call & B-Call
+Added reassurance with built-in emergency support.
+
+TABLES:
+
+TABLE 1:
+['', None]
+[None, '']
+[None, '']
+
+TABLE 2:
+['', '']
+
+
+================================================================================
+PAGE 12
+================================================================================
+
+METADATA:
+Page Number: 12
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+ISOFIX
+Child seat fixed anchor system designed for maximum safety.
+Auto Headlamps &
+Rain Sensing Wiper
+Headlights and wipers that activate
+automatically for effortless visibility.
+ESP
+Electronic stability that actively
+reinforces confident control.
+
+TABLES:
+
+TABLE 1:
+['', None]
+[None, 'Aut\nRai']
+[None, '']
+
+
+================================================================================
+PAGE 13
+================================================================================
+
+METADATA:
+Page Number: 13
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+ComManD maX
+tech
+Ultra View Twin HD Digital Cockpit
+Cockpit design that elevates cabin experience with clarity
+and confidence.
+
+TABLES:
+
+TABLE 1:
+['', '']
+
+
+================================================================================
+PAGE 14
+================================================================================
+
+METADATA:
+Page Number: 14
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+Ultra View 17.78cm
+HD Digital Cluster
+Drive smarter with all the essential
+information in front of you.
+Ultra View 26.03cm HD Infotainment
+with Wireless Connectivity
+Grand display and max control with Android AutoTM
+and Apple Car PlayTM.
+Wireless Smartphone
+Charger- Qi Support
+Seamless charging for powered drives.
+
+TABLES:
+No tables detected.
+
+
+================================================================================
+PAGE 15
+================================================================================
+
+METADATA:
+Page Number: 15
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+Voice Assisted Electric Sunroof
+Open up your world, with just a command.
+Xpress Cool
+Cooling that takes care of
+your comfort, instantly.
+
+TABLES:
+
+TABLE 1:
+['Voice Assisted Electric Sunroof\nOpen up your world, with just a command.\nXpress Cool\nCooling that takes care of\nyour comfort, instantly.', '']
+['', None]
+
+
+================================================================================
+PAGE 16
+================================================================================
+
+METADATA:
+Page Number: 16
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+4 Speakers and 4 Tweeters
+Turn it up. Command sound with acoustic power
+that moves you.
+65W Front and
+15W Rear-Fast Charger
+High speed type C USB charging on demand, front and back.
+
+TABLES:
+
+TABLE 1:
+['']
+['']
+
+
+================================================================================
+PAGE 17
+================================================================================
+
+METADATA:
+Page Number: 17
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+Cruise Control
+Reduced fatigue and smoother cruising for
+long effortless journeys.
+iRA Connectivity
+Connected intelligence that leads
+your drive seamlessly.
+
+TABLES:
+No tables detected.
+
+
+================================================================================
+PAGE 18
+================================================================================
+
+METADATA:
+Page Number: 18
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+ComManD maX
+ccaappaabbiilliittyy
+
+TABLES:
+
+TABLE 1:
+['ComManD maX\nccaappaabbiilliittyy', '']
+
+
+================================================================================
+PAGE 19
+================================================================================
+
+METADATA:
+Page Number: 19
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+1.2L Revotron Engine 1.2L CNG Engine
+Experience remarkable performance India’s First CNG AMT SUV
+and standout efficiency. Experience efficient and intelligent driving
+with the CNG Engine which comes with
+73.4 PS power and 103 Nm torque.
+1.2L Turbocharged Engine
+Power that leads. Experience 120 PS power
+and 170 Nm torque with a 6 speed gearbox.
+Paddle Shifters
+Dominate drives with gear shifts at your fingertips.
+
+TABLES:
+No tables detected.
+
+
+================================================================================
+PAGE 20
+================================================================================
+
+METADATA:
+Page Number: 20
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+Automated Manual
+Transmission (AMT)
+Smooth gear shifts for effortless
+control in every drive.
+193mm
+Ground Clearance of 193mm
+Built to handle rough roads with ease.
+Multi Drive Modes - Eco & City
+Choose your mode. Command your drive.
+
+TABLES:
+No tables detected.
+
+
+================================================================================
+PAGE 21
+================================================================================
+
+METADATA:
+Page Number: 21
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+ComManD maX
+comfort
+CentraLuxe Console –
+with Armrest
+Design that keeps comfort and utility both close at hand.
+
+TABLES:
+
+TABLE 1:
+['ComManD maX\ncomfort\nCentraLuxe Console –\nwith Armrest\nDesign that keeps comfort and utility both close at hand.']
+['']
+
+
+================================================================================
+PAGE 22
+================================================================================
+
+METADATA:
+Page Number: 22
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+Command Entry 90°
+Opening Door
+Step in. Step out. Command your entry.
+Autofold ORVM
+Elevate everyday convenience.
+
+TABLES:
+
+TABLE 1:
+['Command Entry 90°\nOpening Door\nStep in. Step out. Command your entry.\nAutofold ORVM\nElevate everyday convenience.', '']
+
+
+================================================================================
+PAGE 23
+================================================================================
+
+METADATA:
+Page Number: 23
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+Rear AC Vents
+Cooling comfort for everyone
+on board.
+Rear Wiper and Washer
+Command clear rear visibility
+without distraction.
+
+TABLES:
+
+TABLE 1:
+['Washer\nty', None]
+[None, '']
+
+TABLE 2:
+['', None]
+[None, '']
+
+
+================================================================================
+PAGE 24
+================================================================================
+
+METADATA:
+Page Number: 24
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+Height Adjustable
+Driver Seat
+Command a clear view.
+Rise above everything ahead.
+366L Bootspace
+Carry your world with you, without compromise.
+
+TABLES:
+
+TABLE 1:
+['Height Adjustable\nDriver Seat\nCommand a clear view.\nRise above everything ahead.\n366L Bootspace\nCarry your world with you, without compromise.', '']
+
+TABLE 2:
+['', None]
+[None, '']
+
+
+================================================================================
+PAGE 25
+================================================================================
+
+METADATA:
+Page Number: 25
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+Cooled Glovebox
+Cooling essentials for
+everyday convenience.
+Rear Armrest
+Rest in charge with max comfort.
+
+TABLES:
+No tables detected.
+
+
+================================================================================
+PAGE 26
+================================================================================
+
+METADATA:
+Page Number: 26
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+ComManD maX
+with
+
+TABLES:
+No tables detected.
+
+
+================================================================================
+PAGE 27
+================================================================================
+
+METADATA:
+Page Number: 27
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+Automated Manual
+Transmission in CNG
+An automatic gearbox that keeps
+every commute smooth, effortless,
+and efficient with CNG.
+Usable Bootspace
+Command space, command innovation. The
+new Punch iCNG delivers on uncompromised
+performance, safety and premium features
+with 210L bootspace.
+Twin Cylinder CNG Technology
+The twin CNG cylinders of 60 litres capacity are placed hidden beneath
+the luggage area for a high on aesthetics and unbelievably huge boot
+space. The advanced iCNG technology offers incredible petrol car like
+performance 73.5 PS and torque of 103 Nm.
+
+TABLES:
+No tables detected.
+
+
+================================================================================
+PAGE 28
+================================================================================
+
+METADATA:
+Page Number: 28
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+Single Advanced ECU
+The iCNG technology uses a single ECU to ensure
+seamless shifting between CNG and Petrol. Advanced
+ECU maintains optimum air-fuel ratio to give an
+incredible performance and high fuel efficiency.
+Direct Start in CNG
+CNG The iCNG technology allows you to start
+the vehicle directly in CNG Mode. Now
+enjoy every drive stress-free, without
+worrying about switching to CNG mode.
+Thermal Incident Protection
+The iCNG technology immediately cuts off CNG
+supply to the engine in case of a thermal incident
+and releases gas from the cylinder directly into
+the atmosphere through a special nozzle as a
+measure of safety.
+Leak Detection Feature
+The iCNG technology automatically switches
+from CNG to Petrol mode incase of a gas leak
+and protects the car and passengers from
+any harm.
+
+TABLES:
+
+TABLE 1:
+['', None]
+['', '']
+
+
+================================================================================
+PAGE 29
+================================================================================
+
+METADATA:
+Page Number: 29
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+tech specs
+engine
+Type 1.2L Revotron 1.2L Revotron iCNG 1.2L Turbocharged
+Fuel Petrol Petrol + CNG Petrol
+Engine Capacity (CC),
+1199 CC, 3 Cylinders
+No. of Cylinders
+87.8 PS @ 6000 rpm CNG Mode -73.4 PS @ 6000 rpm 120 PS @ 5500 rpm
+Max Power (PS@rpm)
+Petrol Mode -87.8 PS @ 6000 rpm
+115 Nm @ 3250 rpm CNG Mode -103 Nm @ 3500 rpm 170 Nm @ 1750 - 4000 rpm
+Max Torque (Nm@rpm)
+Petrol Mode- 115 Nm @ 3250 rpm
+tTrraannssmmisisssioionn
+5 Speed MT 5 Speed MT
+Type
+6 Speed MT
+5 Speed AMT 5 Speed AMT
+dimensions
+Length (mm) x Width (mm)
+x Height (mm) 3876 x 1742 x 1615
+Wheelbase (mm) 2445
+Ground Clearance -
+Unladen (mm) 193
+Boot Space (Litre) 366 (as per ISO V215), 366 (as per ISO V215),
+210
+319 (as per ISO 210) 319 (as per ISO 210)
+Brakes
+Front/Rear Disc/Drum
+suspension
+Front Independent, Lower Wishbone, Mcpherson Strut with Coil Spring
+Rear Semi-independent Twist Beam with Coil Spring and Shock Absorber
+wheels and tyres
+Type Steel Wheel with Wheel Covers / Hyper Style Wheels / Alloy Wheels
+Tyre Sizes Accomplished : 195/60 R16 (Radial-Tubeless)
+Smart / Pure / Adventure / 185/70 R15 (Radial-Tubeless)
+Spare Tyre Size 185/70 R15 Steel Wheels
+Seating Capacity 5
+Fuel Tank Capacity (Litre) 37L Petrol: 37L, CNG: 60L 37L
+(Water Capacity)
+drivetrain matrix
+petrol mt petrol Amt cng mt cng amt tc mt
+Smart √ √
+Pure √ √
+Pure + √ √ √ √
+Pure + S √ √ √
+Adventure √ √ √ √ √
+Adventure S √ √ √
+Accomplished √ √ √
+Accomplished + S √ √ √ √
+
+TABLES:
+
+TABLE 1:
+['Type', '1.2L Revotron', '1.2L Revotron iCNG', '1.2L Turbocharged']
+['Fuel', 'Petrol', 'Petrol + CNG', 'Petrol']
+['Engine Capacity (CC),\nNo. of Cylinders', '1199 CC, 3 Cylinders', None, None]
+['Max Power (PS@rpm)', '87.8 PS @ 6000 rpm', 'CNG Mode -73.4 PS @ 6000 rpm\nPetrol Mode -87.8 PS @ 6000 rpm', '120 PS @ 5500 rpm']
+['Max Torque (Nm@rpm)', '115 Nm @ 3250 rpm', 'CNG Mode -103 Nm @ 3500 rpm\nPetrol Mode- 115 Nm @ 3250 rpm', '170 Nm @ 1750 - 4000 rpm']
+
+TABLE 2:
+['Type', '5 Speed MT\n5 Speed AMT', '5 Speed MT\n5 Speed AMT', '6 Speed MT']
+
+TABLE 3:
+['Length (mm) x Width (mm)\nx Height (mm)', '3876 x 1742 x 1615', None, None]
+['Wheelbase (mm)', '2445', None, None]
+['Ground Clearance -\nUnladen (mm)', '193', None, None]
+['Boot Space (Litre)', '366 (as per ISO V215),\n319 (as per ISO 210)', '210', '366 (as per ISO V215),\n319 (as per ISO 210)']
+
+TABLE 4:
+['Front/Rear', 'Disc/Drum']
+
+TABLE 5:
+['Front', 'Independent, Lower Wishbone, Mcpherson Strut with Coil Spring']
+['Rear', 'Semi-independent Twist Beam with Coil Spring and Shock Absorber']
+
+TABLE 6:
+['Type', 'Steel Wheel with Wheel Covers / Hyper Style Wheels / Alloy Wheels', None, None]
+['Tyre Sizes', 'Accomplished : 195/60 R16 (Radial-Tubeless)\nSmart / Pure / Adventure / 185/70 R15 (Radial-Tubeless)', None, None]
+['Spare Tyre Size', '185/70 R15 Steel Wheels', None, None]
+['Seating Capacity', '5', None, None]
+['Fuel Tank Capacity (Litre)', '37L', 'Petrol: 37L, CNG: 60L\n(Water Capacity)', '37L']
+
+TABLE 7:
+['Smart', '√', '', '√', '', '']
+['Pure', '√', '', '√', '', '']
+['Pure +', '√', '√', '√', '√', '']
+['Pure + S', '√', '√', '√', '', '']
+['Adventure', '√', '√', '√', '√', '√']
+['Adventure S', '√', '', '√', '√', '']
+['Accomplished', '√', '√', '√', '', '']
+['Accomplished + S', '√', '√', '', '√', '√']
+
+
+================================================================================
+PAGE 30
+================================================================================
+
+METADATA:
+Page Number: 30
+Page Width: 648
+Page Height: 1152
+
+CONTENT:
+colour matriX
+COLOURS SMART PURE PURE + PURE + S ADVENTURE ADVENTURE S ACCOMPLISHED ACCOMPLISHED + S
+Pristine White
+Daytona Grey
+Bengal Rouge
+Coorg Clouds
+Caramel
+Cyantafic
+persona walk
+SMART PURE + ACCOMPLISHED
+6 Airbags Addition over Pure Addition over Adventure
+Powersight LED Headlamp Ultra View 20.32cm Touchscreen Ultra View 26.03cm Touchscreen
+10.16cm Digital Cluster Infotainment by HARMANTM Infotainment
+City & Eco-drive Mode¤ Wireless Android AutoTM Trailcrest R16 Painted Alloy Wheels
+ESP and Apple CarPlayTM Powersight LED DRLs
+Hill Hold Assist
+Reverse Parking Camera Inflinity Glow LED Connected
+iTPMS
+Cruise Control* Tail-Lamp
+Smart Steering Wheel
+Height Adjustable Driver Seat Extended Thigh Support Seats
+Follow-me-home Headlamps
+Fast 65W C-type Front and 15W Clima Touch Automatic
+Front Power Window
+C-type Rear Charger Temperature Control
+Idle Start Stop¤
+Shark Fin Antenna
+Foldable Key with Remote PEPS
+R15 Wheel Cover
+Central Locking Hill Descent Control
+Vanity Mirror Co-driver
+Puncture Kit Galaxy Ambient Lighting
+Body Color ODH
+ISOFIX
+10.16cm Digital TFT Cluster
+Dual Tone Horn
+3 Point ELR with SBR for all Seats
+Spare Wheel Cooled Glovebox
+Front Adjustable Headrest
+Parcel Tray
+PURE + S
+Rear Adjustable Headrest
+PURE Addition over Pure + Rear Extended Spoiler
+Front Seat Back Pockets
+Addition over Smart Voice Assisted Electric Sunroof
+Silver Finish Inner Door Handle
+Rear AC Vents Roof Rails
+CentraLuxe Console with Armrest Auto Headlamps
+Steering Mounted Controls Rain Sensing Wipers
+4 Speakers Rear Collapse Grab Handle
+Rear Defogger Co-Dr Collapse Grab Handle ACCOMPLISHED + S
+Anti-Glare IRVM Addition over Accomplished
+Fast 15W C-type Front Charger
+ADVENTURE Ultra View 17.78cm Digital Cluster
+All Power Windows
+Electrical Adjustable ORVM Addition over Pure+ Voice Assisted Electric Sunroof
+Fixed Rear Grab Handles iRA Connectivity
+360° Surround View Camera
+Smart Digital Steering Wheel LED Fog Lamp with Cornering
+Blind View Monitor
+Wireless Smartphone Charger
+R15 Hyperstyled Wheel
+Trailcrest R16 Diamond Cut Alloy Wheels
+Fully Automatic Temperature Control
+Push Button Start Auto-Dimming IRVM
+Auto Fold ORVM 4 Tweeters
+Rear Wiper and Washer Roof Rails
+Air-Purifier
+Rear Seat Armrest
+Auto Headlamps
+Puddle Lamp
+Rain Sensing Wipers
+Express Cool
+Leather Steering Wheel & Gear Knob
+ADVENTURE S
+1 Touch up/Down Driver Window
+Paddle Shifter**
+Addition over Adventure
+Co-Dr Collapse Grab Handle
+Voice Assisted Electric Sunroof
+Roof Rails
+Co-Dr Collapse Grab Handle
+*NA MT/AMT, CNG MT, TC MT. ** NA AMT/CNG AMT. ¤Petrol NA MT only.
+https://cars.tatamotors.com/punch/ice.html /officialtatamotorscars /TataMotors_Cars /tatapunchofficial /TataMotorsCars
+Download the ConnectNext App Download the Tata Motors' Connected-car App, iRA.
+*Terms and Conditions apply. Above mentioned features are key differentiating features. The detailed list/features/specifications will be disclosed at the time of TO KNOW MORE: CALL - 1800 209 8282
+launch. All features/specifications may not be available in all personas and may vary. Colour applicability and power train options may vary for variants/personas.
+Specifications/features are subject to change without prior information. Images and illustrations are indicative and for information purpose only. The product image
+may carry some accessories that are not a part of standard equipment. Please consult an authorized Tata Motors dealer for latest information on
+features/specifications. Colours may not match the actual colours due to printing/digit al limitations. Customers will be able to utilize iRA Connect subscription for one years km
+year from the date of activation within the Data Pack Limits. Post completion of one year, customers can subscribe to iRA services by paying subscription fees.
+##Warranty cover for 3 Years / 1 Lakh Kms, whichever ends earlier. Android Auto, Apple Car Play, Alexa and Harman are registered trademarks. Emergency call &
+breakdown call services are available in select cities, please connect with your nearest dealer for more details. Voice commands is a mix of multiple languages.
+Accessories shown and features mentioned may not be a part of standard equipment and are subject to change without prior notice. Actual colour of the vehicle and Tata Motors Passenger Vehicle Business Unit, Tata Motors Limited, 4th Floor,
+upholstery might differ. Tinted glass and number plates shown are for creative visualization. Ahura Centre, Mahakali Caves Road, MIDC, Andheri (East), Mumbai 400093.
+
+TABLES:
+
+TABLE 1:
+['', None]
+['Pristine White', '']
+['Daytona Grey', '']
+['Bengal Rouge', '']
+['Coorg Clouds', '']
+['Caramel', '']
+['Cyantafic', '']
+
+TABLE 2:
+['']
+['Addition over Adventure\nUltra View 26.03cm Touchscreen\nInfotainment\nTrailcrest R16 Painted Alloy Wheels\nPowersight LED DRLs\nInflinity Glow LED Connected\nTail-Lamp\nExtended Thigh Support Seats\nClima Touch Automatic\nTemperature Control\nPEPS\nHill Descent Control\nGalaxy Ambient Lighting\n10.16cm Digital TFT Cluster\nCooled Glovebox\nParcel Tray\nRear Adjustable Headrest\nRear Extended Spoiler\nFront Seat Back Pockets\nSilver Finish Inner Door Handle\nACCOMPLISHED + S']
+['Addition over Accomplished\nUltra View 17.78cm Digital Cluster\nVoice Assisted Electric Sunroof\niRA Connectivity\nLED Fog Lamp with Cornering\nWireless Smartphone Charger\nTrailcrest R16 Diamond Cut Alloy Wheels\nAuto-Dimming IRVM\n4 Tweeters\nRoof Rails\nRear Seat Armrest\nPuddle Lamp\nExpress Cool\nLeather Steering Wheel & Gear Knob\n1 Touch up/Down Driver Window\nPaddle Shifter**\nCo-Dr Collapse Grab Handle']
+
+TABLE 3:
+['Addition over Pure\nUltra View 20.32cm Touchscreen\nInfotainment by HARMANTM\nWireless Android AutoTM\nand Apple CarPlayTM\nReverse Parking Camera\nCruise Control*\nHeight Adjustable Driver Seat\nFast 65W C-type Front and 15W\nC-type Rear Charger\nShark Fin Antenna\nR15 Wheel Cover\nVanity Mirror Co-driver\nBody Color ODH\nDual Tone Horn\nSpare Wheel\nPURE + S']
+['Addition over Pure +\nVoice Assisted Electric Sunroof\nRoof Rails\nAuto Headlamps\nRain Sensing Wipers\nRear Collapse Grab Handle\nCo-Dr Collapse Grab Handle']
+
+TABLE 4:
+['Addition over Pure+\n360° Surround View Camera\nBlind View Monitor\nR15 Hyperstyled Wheel\nFully Automatic Temperature Control\nPush Button Start\nAuto Fold ORVM\nRear Wiper and Washer\nAir-Purifier\nAuto Headlamps\nRain Sensing Wipers\nADVENTURE S']
+['Addition over Adventure\nVoice Assisted Electric Sunroof\nRoof Rails\nCo-Dr Collapse Grab Handle']
+
+TABLE 5:
+['', '']
+
+

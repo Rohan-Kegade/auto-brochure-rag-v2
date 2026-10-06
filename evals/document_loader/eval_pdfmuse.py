@@ -1,7 +1,8 @@
 from langchain_pdfmuse import PdfmuseLoader
 
-INPUT_PATH = "data/xpres-brochure.pdf"
-OUTPUT_PATH = "evals/document_loader/output/pdfmuse.txt"
+INPUT_PATH = "data/VenuedigitalBrochure.pdf"
+# INPUT_PATH = "data/new-tata-punch-brochure.pdf"
+OUTPUT_PATH = "evals/document_loader/output/pdfmuse-4.txt"
 
 loader = PdfmuseLoader(INPUT_PATH, mode="elements")
 

@@ -1,7 +1,10 @@
 import pdfplumber
 
-INPUT_PATH = "data/xpres-brochure.pdf"
-OUTPUT_PATH = "evals/document_loader/output/pdfplumber.txt"
+INPUT_PATH = "data/VenuedigitalBrochure.pdf"
+# INPUT_PATH = "data/new-tata-punch-brochure.pdf"
+# INPUT_PATH = "data/nexon-brochure-may.pdf"
+# INPUT_PATH = "data/xpres-brochure.pdf"
+OUTPUT_PATH = "evals/document_loader/output/pdfplumber-4.txt"
 
 with pdfplumber.open(INPUT_PATH) as pdf:
 
@@ -13,6 +16,12 @@ with pdfplumber.open(INPUT_PATH) as pdf:
             f.write("=" * 80 + "\n")
             f.write(f"PAGE {i + 1}\n")
             f.write("=" * 80 + "\n\n")
+
+            f.write("METADATA:\n")
+            f.write(f"Page Number: {page.page_number}\n")
+            f.write(f"Page Width: {page.width}\n")
+            f.write(f"Page Height: {page.height}\n")
+            f.write("\n")
 
             f.write("CONTENT:\n")
             f.write(page.extract_text() or "")

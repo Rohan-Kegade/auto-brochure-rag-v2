@@ -4,6 +4,11 @@ Total Pages: 4
 PAGE 1
 ================================================================================
 
+METADATA:
+Page Number: 1
+Page Width: 623.625
+Page Height: 870.24
+
 CONTENT:
 XPRES More, Earn More.
 Available in CNG and Petrol
@@ -31,6 +36,11 @@ TABLE 1:
 PAGE 2
 ================================================================================
 
+METADATA:
+Page Number: 2
+Page Width: 623.625
+Page Height: 870.24
+
 CONTENT:
 First-in-Segment ^70L
 Twin-Cylinder CNG
@@ -52,6 +62,11 @@ No tables detected.
 ================================================================================
 PAGE 3
 ================================================================================
+
+METADATA:
+Page Number: 3
+Page Width: 623.625
+Page Height: 870.24
 
 CONTENT:
 XPRES Features (Petrol/CNG)
@@ -108,6 +123,11 @@ No tables detected.
 ================================================================================
 PAGE 4
 ================================================================================
+
+METADATA:
+Page Number: 4
+Page Width: 623.625
+Page Height: 870.24
 
 CONTENT:
 Specifications XPRES Petrol XPRES CNG

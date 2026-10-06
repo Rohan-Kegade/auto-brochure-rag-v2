@@ -1,44 +1,32 @@
 # AI Car Research & Comparison Assistant
 
-A RAG-based AI assistant that helps car buyers and sales representatives research and compare cars using official car brochure PDFs.
+A **RAG-based AI assistant** that helps car buyers and sales representatives research and compare cars using official car brochure PDFs.
 
 ## Why This Project?
 
-Car brochures contain a large amount of information across different models, variants, and trims. Remembering all the specifications, features, and variant-level differences can be difficult.
+Car brochures contain a large amount of information across different **models, variants, and trims**. Remembering all the **specifications, features, and variant-level differences** can be difficult.
 
-This can be especially challenging for car buyers comparing multiple cars and for sales representatives who need to quickly answer customer questions.
+This can be especially challenging for **car buyers** comparing multiple cars and for **sales representatives** who need to quickly answer customer questions.
 
 ## Why RAG?
 
-Users can upload a car brochure to an LLM and ask questions, but processing the entire document for every query can be slow and inefficient.
+Users can upload a car brochure to an LLM and ask questions, but processing the **entire document for every query** can be slow and inefficient.
 
-RAG solves this by retrieving only the relevant information from the selected brochures and providing it to the LLM before generating an answer. This makes the process more efficient and allows the assistant to provide answers with page-level citations.
+RAG solves this by retrieving only the **relevant information** from the selected brochures and providing it to the LLM before generating an answer. This makes the process more efficient and allows the assistant to provide **page-level citations**.
 
 ## How This Project Works
 
-### 1. Upload Brochure
+1. Upload a **car brochure PDF**.
 
-The user uploads a car brochure PDF.
+2. Extract and chunk the content, generate **embeddings**, and store them in a **vector database**.
 
-### 2. Process & Store
+3. Select one or more **previously indexed brochures** for the current chat.
 
-The PDF is processed to extract its content, which is split into smaller chunks. These chunks are converted into embeddings and stored in a vector database.
+4. Ask a question or compare **cars, features, specifications, or variants**.
 
-### 3. Select Brochures
+5. Retrieve the **most relevant chunks** from the selected brochures.
 
-Users can add previously uploaded and indexed brochures to the current chat context. This allows them to research or compare cars without uploading the same brochures again.
-
-### 4. User Query
-
-The user asks a question about a car or compares multiple cars.
-
-### 5. Retrieve Relevant Information
-
-The query is used to search the selected brochures and retrieve the most relevant chunks.
-
-### 6. Generate Answer
-
-The retrieved information is provided to the LLM along with the user's question. The LLM generates an answer based on the retrieved context and provides relevant page-level citations.
+6. Provide the retrieved context to the **LLM** to generate an answer with **page-level citations**.
 
 ### Overall Flow
 
@@ -51,14 +39,15 @@ The retrieved information is provided to the LLM along with the user's question.
                         ↓
                  Generate Embeddings
                         ↓
-                Store in Vector DB
+                 Store in Vector DB
                         ↓
               ┌─────────────────────┐
               │ Previously Indexed  │
-              │     Brochures       │
+              │      Brochures      │
               └──────────┬──────────┘
                          ↓
-              Select Brochures for Chat
+                Select Brochures
+                    for Chat
                          ↓
                     User Query
                          ↓
@@ -68,4 +57,13 @@ The retrieved information is provided to the LLM along with the user's question.
                          ↓
                        LLM
                          ↓
-                 Answer + Citations
+                Answer + Citations
+```
+
+## Technology Stack
+
+- Document Loader: PDFPlumber
+- Embeddings: TBD
+- Vector Database: TBD
+- LLM: TBD
+- Backend: TBD

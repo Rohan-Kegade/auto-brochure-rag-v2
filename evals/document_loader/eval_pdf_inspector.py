@@ -1,7 +1,10 @@
 import pdf_inspector
 
-INPUT_PATH = "data/xpres-brochure.pdf"
-OUTPUT_PATH = "evals/document_loader/output/pdf_inspector.txt"
+# INPUT_PATH = "data/VenuedigitalBrochure.pdf"
+# INPUT_PATH = "data/new-tata-punch-brochure.pdf"
+INPUT_PATH = "data/Nexon-brochure-may.pdf"
+# INPUT_PATH = "data/xpres-brochure.pdf"
+OUTPUT_PATH = "evals/document_loader/output/pdf_inspector-2.txt"
 
 result = pdf_inspector.process_pdf(INPUT_PATH)
 
