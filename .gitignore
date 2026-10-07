@@ -11,3 +11,9 @@ wheels/
 
 # input files
 data/
+
+# env variables
+.env
+
+# database files
+chroma_db/
